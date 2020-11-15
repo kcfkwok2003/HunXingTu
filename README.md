@@ -45,7 +45,38 @@
 
 下面是星相圖和觀星圖混合後的效果，我把它稱為渾星圖。是顯示在7.5吋墨水屏上截取出來的。而渾星錶的解釋度較低(240點x240點)，也就進一步簡化了。
 
-![Image](images/pic1.6.png)
+- 圖1.6 渾星圖(電子墨水屏)
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.6.png?raw=true)
 
-![Image](images/pic1.7.png)
+- 圖1.7渾星圖(TFT LCD)
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.7.png?raw=true)
+
+在北半球，天上群星環繞北極星轉動，因此拿星圖時面向北方較自然。此時右邊是東方，所以圖1.4和圖1.6正好左右反轉。應該容易看出，圖1.6的外圍是星相圖部份，而內部則是觀星圖部份。為了精簡，觀星圖部份只顯示了黃道上的星座、仙后座和北斗七星。仙后和北斗都很易辨認，認出它們就能找到北極星，正北方向也就找到了。
+
+
+下面是渾星圖的詳細解說。
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.8.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.9.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.10.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.11a.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.11b.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.11c.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.12a.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.12b.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.13a.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.13b.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.14.png?raw=true)
+
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.15.png?raw=true)
 
