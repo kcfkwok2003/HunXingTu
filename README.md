@@ -14,9 +14,9 @@
 
 有一種天文現象叫「五星連珠」。2016年1月17日太陽出來之前會看到五大行星同時在天空出現。下面是一張網上找到的圖片，其下是占星軟件計算結果和對應日期時間的星圖。
 
-![Image](pic1.3.jpg)
+![Image](images/pic1.3.jpg)
 
-![Image](pic1.4.png)
+![Image](images/pic1.4.png)
 
-![Image](pic1.5.png)
+![Image](images/pic1.5.png)
 
