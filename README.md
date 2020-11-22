@@ -10,6 +10,8 @@
 
 [農曆小知識](#header4)
 
+[Android 版渾星圖操作說明](#header5)
+
 
 <a name="header1"/>
 
@@ -169,3 +171,110 @@
 「子」是地支的第一位，那麽子月是不是一年的開始呢?
 
 歷史上，周朝確是以子月(公曆12月)為一年的開始的(周正建子)，而商朝則是以丑月(公曆1月)為一年的開始的(殷正建丑)。而更早期的夏朝是以寅月(公暦2月)為一年的開始的。中國大部份的朝代以至今天的農曆都是跟隨夏曆的習慣，所以農曆正月在公暦2月， 地支是寅。
+
+<a name="header5"/>
+
+## Android 版渾星圖操作說明
+
+[Google play 下載](https://play.google.com/store/apps/details?id=com.huawei.hunXingTu)
+
+
+當所有屏幕設定關閉時的顯示:
+
+
+- 圖2.1
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.1.png?raw=true)
+
+菜單系統
+
+- 圖2.2
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.2.png?raw=true)
+
+
+赤道座標系和地平座標系選擇
+
+
+- 圖2.3
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.3.png?raw=true)
+
+
+顯示時分秒針
+
+- 圖2.4
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.4.png?raw=true)
+
+
+顯示赤道
+
+- 圖2.5
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.5.png?raw=true)
+
+
+顯示赤道、黃道、黃道星座連線和黃道星宫符號
+
+- 圖2.6
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.6.png?raw=true)
+
+
+顯示赤道、黃道、黃道星座連線和廿四節氣
+
+- 圖2.7
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.7.png?raw=true)
+
+
+顯示赤道、黃道、黃道星座連線和農曆月支
+
+- 圖2.8
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.8.png?raw=true)
+
+顯示地平坐標線
+
+- 圖2.9
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.9.png?raw=true)
+
+顯示星座連線、北極圏、南極圏
+
+- 圖2.10
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.10.png?raw=true)
+
+顯示行星符號、上升線和子午線
+
+
+- 圖2.11
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.11.png?raw=true)
+
+
+全部設定開關開啟下的赤道坐標系顯示
+
+- 圖2.12
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.12.png?raw=true)
+
+全部設定開關開啟下的地平坐標系顯示(可見天空部分)
+
+- 圖2.13
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.13.png?raw=true)
+
+
+全部設定開關開啟下的地平坐標系顯示(不可見天空部分)
+
+- 圖2.14
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.14.png?raw=true)
+
+星座圖鑑
+
+- 圖2.15
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.15.png?raw=true)
+
+
+設定自家插圖路徑及加入插圖
+
+- 圖2.16
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.16.png?raw=true)
+
+
+顯示自家插圖
+
+- 圖2.17
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.17.png?raw=true)
+
+
