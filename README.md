@@ -302,6 +302,10 @@
 - 圖2.18f 進行模擬緯度變動
 ![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18f.png?raw=true)
 
+- 圖2.19b 模擬緯度變動效果
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.19b.png?raw=true)
+
+
 - 圖2.18g 進行模擬南北半球切換
 ![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18g.png?raw=true)
 
