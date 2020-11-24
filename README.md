@@ -277,4 +277,37 @@
 - 圖2.17
 ![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.17.png?raw=true)
 
+物換星移，天路歷程模擬之旅
+
+
+- 圖2.18a 進行模擬時鐘變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18a.png?raw=true)
+
+- 圖2.19a 模擬時鐘變動效果
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.19a.png?raw=true)
+
+
+- 圖2.18b 進行模擬分鐘變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18b.png?raw=true)
+
+- 圖2.18c 進行模擬年份變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18c.png?raw=true)
+
+- 圖2.18d 進行模擬月份變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18d.png?raw=true)
+
+- 圖2.18e 進行模擬日期變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18e.png?raw=true)
+
+- 圖2.18f 進行模擬緯度變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18f.png?raw=true)
+
+- 圖2.18g 進行模擬南北半球切換
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18g.png?raw=true)
+
+- 圖2.18h 進行模擬經度變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18h.png?raw=true)
+
+- 圖2.18i 進行模擬東西半球切換
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18i.png?raw=true)
 
