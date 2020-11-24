@@ -57,9 +57,19 @@
 
 星相圖是可以計算得到的。觀星圖需說是靜態的，但實際上要知道經緯度和日期時間才可以計算出地平圏和可看見的天空。既然都是要計算的，那就要找有計算能力的器件了。為了方便攜帶，不能太大，也要有電池和省電，有時鐘功能，可以經互聯網同步時間。拜物聯網的興起，這類器件已經有很多選擇了。
 
-另一個要考慮的是使用什麼顯示器，電子墨水屏是不錯的選擇。省電、不傷眼睛，但沒有彩色，更新速度慢。本書封面所示的是4.2吋(400點x300點)和7.5吋(800點x480點)的電子墨水屏。
+另一個要考慮的是使用什麼顯示器，電子墨水屏是不錯的選擇。省電、不傷眼睛，但沒有彩色，更新速度慢。圖1.5a和圖1.5b所示的是4.2吋(400點x300點)和7.5吋(800點x480點)的電子墨水屏。
 
-下面是星相圖和觀星圖混合後的效果，我把它稱為渾星圖。是顯示在7.5吋墨水屏上截取出來的。而渾星錶的解釋度較低(240點x240點)，也就進一步簡化了。
+下面是星相圖和觀星圖混合後的效果，我把它稱為渾星圖。是顯示在7.5吋墨水屏上截取出來的。而渾星錶(圖1.5c)的解釋度較低(240點x240點)，也就進一步簡化了。
+
+- 圖1.5a 渾星儀(4.2吋電子墨水屏)
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.5a.jpg?raw=true)
+
+- 圖1.5b 渾星儀(7.5吋電子墨水屏)
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.5b.jpg?raw=true)
+
+- 圖1.5c 渾星錶(LCD彩屏)
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.5c.jpg?raw=true)
+
 
 - 圖1.6 渾星圖(電子墨水屏)
 ![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic1.6.png?raw=true)
@@ -277,4 +287,41 @@
 - 圖2.17
 ![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.17.png?raw=true)
 
+物換星移，天路歷程模擬之旅
+
+
+- 圖2.18a 進行模擬時鐘變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18a.png?raw=true)
+
+- 圖2.19a 模擬時鐘變動效果
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.19a.png?raw=true)
+
+
+- 圖2.18b 進行模擬分鐘變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18b.png?raw=true)
+
+- 圖2.18c 進行模擬年份變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18c.png?raw=true)
+
+- 圖2.18d 進行模擬月份變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18d.png?raw=true)
+
+- 圖2.18e 進行模擬日期變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18e.png?raw=true)
+
+- 圖2.18f 進行模擬緯度變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18f.png?raw=true)
+
+- 圖2.19b 模擬緯度變動效果
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.19b.png?raw=true)
+
+
+- 圖2.18g 進行模擬南北半球切換
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18g.png?raw=true)
+
+- 圖2.18h 進行模擬經度變動
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18h.png?raw=true)
+
+- 圖2.18i 進行模擬東西半球切換
+![Image](https://github.com/kcfkwok2003/HunXingTu/raw/main/images/pic2.18i.png?raw=true)
 
